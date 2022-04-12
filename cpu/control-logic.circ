@@ -719,7 +719,7 @@
       <a name="width" val="7"/>
     </comp>
     <comp lib="0" loc="(1730,150)" name="Constant">
-      <a name="value" val="0x32"/>
+      <a name="value" val="0x20"/>
       <a name="width" val="7"/>
     </comp>
     <comp lib="0" loc="(1730,30)" name="Tunnel">
